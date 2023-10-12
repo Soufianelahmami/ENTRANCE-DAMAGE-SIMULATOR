@@ -17,44 +17,44 @@
     },
     "guideData": [
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_1",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/J3N5w1s.webp",
+            "title": "ENTRANCE DAMAGE SIMULATOR 1",
+            "text_Content_": "The simulator could assess the vulnerability of entrances to various forms of damage, including physical force, hacking attempts, or electronic breaches."
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_2",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/J3N5jBn.webp",
+            "title": "ENTRANCE DAMAGE SIMULATOR 2",
+            "text_Content_": "Evaluate the effectiveness of security features such as locks, access control systems, and intrusion detection mechanisms."
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_3",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/J3N5XLX.webp",
+            "title": "ENTRANCE DAMAGE SIMULATOR 3",
+            "text_Content_": "Simulate the impact of natural disasters like earthquakes, floods, or hurricanes on entry points to assess the ability of structures to withstand such events."
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_4",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/J3N5WXt.webp",
+            "title": "ENTRANCE DAMAGE SIMULATOR 4",
+            "text_Content_": "Test emergency response mechanisms to ensure the safety of occupants during and after disasters."
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_5",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/J3N5Eep.webp",
+            "title": "ENTRANCE DAMAGE SIMULATOR 5",
+            "text_Content_": "Model and simulate the effects of explosions on entry points to evaluate their blast resistance."
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_6",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/J3N5GmN.webp",
+            "title": "ENTRANCE DAMAGE SIMULATOR 6",
+            "text_Content_": "Provide insights for designing structures that can withstand potential terrorist attacks or industrial accidents."
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_7",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/J3N50dv.webp",
+            "title": "ENTRANCE DAMAGE SIMULATOR 7",
+            "text_Content_": "Simulate fire scenarios to assess the fire resistance of entry points and emergency evacuation procedures."
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_8",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/J3N517R.webp",
+            "title": "ENTRANCE DAMAGE SIMULATOR 8",
+            "text_Content_": "Test the effectiveness of fire suppression systems and evaluate their response time."
         }
     ]
 }
